@@ -111,6 +111,7 @@ namespace Base_de_datos_generica
             //Mostramos lista
             databaseStrings.Show(listFiltered2);
 
+            Console.WriteLine();
 
             //Probamos con chars
             databaseChars.Delete(3);
