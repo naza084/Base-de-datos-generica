@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\bin\Debug\net7.0\Base de datos generica.exe
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\bin\Debug\net7.0\Base de datos generica.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\bin\Debug\net7.0\Base de datos generica.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\bin\Debug\net7.0\Base de datos generica.dll
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\bin\Debug\net7.0\Base de datos generica.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.dll
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\refint\Base de datos generica.dll
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\Base de datos generica.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\Genericos\Base de datos generica\Base de datos generica\obj\Debug\net7.0\ref\Base de datos generica.dll
