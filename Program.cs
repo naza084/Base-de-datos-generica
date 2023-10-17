@@ -65,15 +65,17 @@ namespace Base_de_datos_generica
             databaseInts.Delete(3);
 
 
+            Console.WriteLine();
+
             //Mostramos lista
             databaseInts.Show(databaseInts.GetList());
 
 
-            Console.WriteLine();
-
             //Filtramos lista
             List<int> listFiltered = databaseInts.Search(op);
 
+
+            Console.WriteLine();
 
             //Mostramos lista
             databaseInts.Show(listFiltered);
@@ -99,6 +101,9 @@ namespace Base_de_datos_generica
             databaseStrings.Delete(4);
 
 
+            Console.WriteLine();
+
+            //Mostramos la lista 
             databaseStrings.Show(databaseStrings.GetList());
 
 
@@ -111,6 +116,7 @@ namespace Base_de_datos_generica
             //Mostramos lista
             databaseStrings.Show(listFiltered2);
 
+            Console.WriteLine();
 
             //Probamos con chars
             databaseChars.Delete(3);
@@ -126,6 +132,8 @@ namespace Base_de_datos_generica
             //Eliminamos un elemento
             databaseChars.Delete(4);
 
+            Console.WriteLine();
+
             //Mostramos lista
             databaseChars.Show(databaseChars.GetList());
 
@@ -135,6 +143,7 @@ namespace Base_de_datos_generica
             //Filtramos lista
             List<char> listFiltered3 = databaseChars.Search(op);
 
+            Console.WriteLine();
 
             //Mostramos lista
             databaseChars.Show(listFiltered3);
@@ -306,7 +315,6 @@ namespace Base_de_datos_generica
         public void DisplaySearchMethods()
         {
 
-            Console.WriteLine();
             Console.WriteLine("Metodos de busqueda: ");
 
             if (typeof(T) == typeof(int) || typeof(T) == typeof(double))
